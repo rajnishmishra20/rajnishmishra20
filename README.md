@@ -1,5 +1,5 @@
 Hi there 👋, I’m Rajnish
-I am new to Github, Working with android and Laravel ecosystem.
+Working with android and Laravel ecosystem.
 
 <!---
 rajnishmishra20/rajnishmishra20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
