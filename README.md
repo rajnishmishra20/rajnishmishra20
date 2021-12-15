@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnishmishra20" alt="rajnishmishra20" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rajishism" target="blank"><img src="https://img.shields.io/twitter/follow/rajishism?logo=twitter&style=for-the-badge" alt="rajishism" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajishify" target="blank"><img src="https://img.shields.io/twitter/follow/rajishism?logo=twitter&style=for-the-badge" alt="rajishism" /></a> </p>
 
 - 🔭 I’m currently working on **Android SDK**
 
