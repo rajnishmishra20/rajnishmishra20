@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnishmishra20" alt="rajnishmishra20" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rajishify" target="blank"><img src="https://img.shields.io/twitter/follow/rajishism?logo=twitter&style=for-the-badge" alt="rajishism" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rajnishify" target="blank"><img src="https://img.shields.io/twitter/follow/rajnishify?logo=twitter&style=for-the-badge" alt="rajnishify" /></a> </p>
 
 - 🔭 I’m currently working on **Android SDK**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rajishism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajishism" height="30" width="40" /></a>
+<a href="https://twitter.com/rajnishify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnishify" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajnishmishra20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajnishmishra20" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1030813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1030813" height="30" width="40" /></a>
 </p>
