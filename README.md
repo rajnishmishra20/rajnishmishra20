@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on **Android SDK**
 
-- 🌱 I’m currently learning **Go, React**
-
-- 🤝 I’m looking for help with **Go**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [github.com/rajnishmishra20](github.com/rajnishmishra20)
 
-- 💬 Ask me about **Android, Java, Laravel**
+- 💬 Ask me about **Android, Java, Laravel, Spring Boot**
 
 - 📫 How to reach me **rajnishmishra20@gmail.com**
 
