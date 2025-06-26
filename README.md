@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajnish Mishra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🔭 I’m currently working on **Android SDK**
-
-- 🌱 I’m currently learning **React**
+- 🔭 Android developer**
 
 - 👨‍💻 All of my projects are available at [github.com/rajnishmishra20](github.com/rajnishmishra20)
 
